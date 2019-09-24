@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoist-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/todoist-app/static/js/main.2b5ddfb6.chunk.js",
+    "main.js.map": "/todoist-app/static/js/main.2b5ddfb6.chunk.js.map",
+    "runtime~main.js": "/todoist-app/static/js/runtime~main.e33bfef5.js",
+    "runtime~main.js.map": "/todoist-app/static/js/runtime~main.e33bfef5.js.map",
+    "static/js/2.7b49f569.chunk.js": "/todoist-app/static/js/2.7b49f569.chunk.js",
+    "static/js/2.7b49f569.chunk.js.map": "/todoist-app/static/js/2.7b49f569.chunk.js.map",
+    "index.html": "/todoist-app/index.html",
+    "precache-manifest.ee6047a816007fd80f2f18811dd1ca5b.js": "/todoist-app/precache-manifest.ee6047a816007fd80f2f18811dd1ca5b.js",
+    "service-worker.js": "/todoist-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/todoist-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
