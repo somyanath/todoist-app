@@ -2,7 +2,7 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://somyanath.github.io/todois-app",
+  "homepage": "https://somyanath.github.io/todoist-app",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
