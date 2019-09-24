@@ -1,3 +1,9 @@
+## TODO APP
+
+A todo App, where the user has the ability to Add/Delete todos. Currently I have not integrated specific user accessibilty so that each user can store his/her todos, the user has to keep the tab open for the todos to be active. I'll be adding the functionality of editing the todos and saving them, so the user can signup for an account, can basically login anywhere and have access to his/her todos.
+
+TECH STACK: REACT - JAVASCRIPT - MATERIALIZE CSS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
