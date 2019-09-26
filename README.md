@@ -4,6 +4,8 @@ A todo App, where the user has the ability to Add/Delete todos. Currently I have
 
 TECH STACK: REACT - JAVASCRIPT - MATERIALIZE CSS
 
+### CHECKOUT THE LIVE VERSION OF THE PROJECT: https://somyanath.github.io/todoist-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
